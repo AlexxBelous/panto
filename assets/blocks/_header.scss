@@ -23,6 +23,7 @@
 
     p {
       font-size: 24px;
+      opacity: 0.8;
       line-height: 160%;
       max-width: 606px;
       margin: 0 auto;
@@ -39,7 +40,8 @@
   }
 
   &__search {
-    margin-top: 45px;
+    margin: 45px auto 0 auto;
+
   }
 
 }
